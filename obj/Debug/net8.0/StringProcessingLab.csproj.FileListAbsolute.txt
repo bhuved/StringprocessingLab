@@ -1,0 +1,14 @@
+C:\Users\vedaa\source\repos\StringProcessingLab\bin\Debug\net8.0\StringProcessingLab.exe
+C:\Users\vedaa\source\repos\StringProcessingLab\bin\Debug\net8.0\StringProcessingLab.deps.json
+C:\Users\vedaa\source\repos\StringProcessingLab\bin\Debug\net8.0\StringProcessingLab.runtimeconfig.json
+C:\Users\vedaa\source\repos\StringProcessingLab\bin\Debug\net8.0\StringProcessingLab.dll
+C:\Users\vedaa\source\repos\StringProcessingLab\bin\Debug\net8.0\StringProcessingLab.pdb
+C:\Users\vedaa\source\repos\StringProcessingLab\obj\Debug\net8.0\StringProcessingLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedaa\source\repos\StringProcessingLab\obj\Debug\net8.0\StringProcessingLab.AssemblyInfoInputs.cache
+C:\Users\vedaa\source\repos\StringProcessingLab\obj\Debug\net8.0\StringProcessingLab.AssemblyInfo.cs
+C:\Users\vedaa\source\repos\StringProcessingLab\obj\Debug\net8.0\StringProcessingLab.csproj.CoreCompileInputs.cache
+C:\Users\vedaa\source\repos\StringProcessingLab\obj\Debug\net8.0\StringProcessingLab.dll
+C:\Users\vedaa\source\repos\StringProcessingLab\obj\Debug\net8.0\refint\StringProcessingLab.dll
+C:\Users\vedaa\source\repos\StringProcessingLab\obj\Debug\net8.0\StringProcessingLab.pdb
+C:\Users\vedaa\source\repos\StringProcessingLab\obj\Debug\net8.0\StringProcessingLab.genruntimeconfig.cache
+C:\Users\vedaa\source\repos\StringProcessingLab\obj\Debug\net8.0\ref\StringProcessingLab.dll
